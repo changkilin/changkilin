@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on creating my repositories for my coding projects </br>
+🔭 I’m currently working on creating my repositories for my coding projects. </br>
 🌱 I’m currently learning python.
 
 
